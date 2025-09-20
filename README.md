@@ -66,17 +66,6 @@ I’ve explored **22 countries/regions so far**, including:
 
 ---
 
-💫 Thanks for visiting! Happy reading and keep building amazing things in the cloud! ☁️
-- 🇭🇰 **Hong Kong**  
-
-### 🌊 Oceania  
-- 🇳🇿 **New Zealand**  
-- 🇫🇯 **Fiji**  
-- 🇳🇨 **New Caledonia**  
-- 🇻🇺 **Vanuatu** 
-
----
-
 ## 📬 Connect With Me 
 
 - 📧 **Email**: [cloudarchitectec@gmail.com](cloudarchitectec@gmail.com)  
