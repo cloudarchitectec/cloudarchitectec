@@ -66,10 +66,4 @@ I’ve explored **22 countries/regions so far**, including:
 
 ---
 
-## 📬 Connect With Me 
-
-- 📧 **Email**: [cloudarchitectec@gmail.com](cloudarchitectec@gmail.com)  
-
----
-
 💫 Thanks for visiting! Happy reading and keep building amazing things in the cloud! ☁️
