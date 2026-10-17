@@ -5,6 +5,7 @@
 旅澳多年的台灣女生，從打工度假到移民澳洲、從文組到轉職科技業。曾任 Amazon & 微軟雲端架構師，現為 DevOps 工程師。希望跟大家分享我對海外求職、英文面試、轉職工程師的系統性攻略。
 
 - 📝 **部落格**: 我在部落格上發表上百篇關於海外職場、澳洲生活、工程師轉職、履歷與面試技巧等主題性文章，歡迎參考：[澳洲雲端架構師 EC 的部落格](https://cloudarchitectec.github.io/)
+- 🚀 **職涯諮詢**:如果需要進一步職涯諮詢，歡迎點擊：[澳洲雲端架構師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps/雲端職涯](https://cloudarchitectec.com/consultation/)
 - 📧 **電子郵件**: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)  
 
 ---
@@ -44,34 +45,36 @@ I excel at aligning technical solutions with business goals, driving digital tra
 | 🟧 AWS                        | 🟦 Azure                              | 🟩 Infrastructure & DevOps      |
 |-------------------------------|---------------------------------------|---------------------------------|
 | Solutions Architect Professional | Solutions Architect Expert           | HashiCorp Terraform Associate   |
-| Security Specialty            | Administrator Associate               | GitHub Actions Certification    |
-| Solutions Architect Associate | Network Engineer Associate            |                                 |
+| Security Specialty            | Administrator Associate               | GitHub Certified: GitHub Actions    |
+| Solutions Architect Associate | Network Engineer Associate            | GitHub Certified: GitHub Agentic AI Developer                                 |
 | Developer Associate           | Security Engineer Associate           |                                 |
 | SysOps Administrator Associate| Azure Fundamentals                    |                                 |
 | Cloud Practitioner            |                                       |                                 |
-
+| AI Practitioner            |                                       |                                 |
 ---
 
 ## 🌍 Beyond Tech  
 
 Outside of work, I enjoy travelling ✈️. 
-I’ve explored **22 countries/regions so far**, including:  
-| 🌍 Europe           | 🌏 Asia         | 🌊 Oceania         | 🌎 Americas        |
-|---------------------|----------------|--------------------|-------------------|
-| 🇳🇱 The Netherlands | 🇸🇬 Singapore   | 🇳🇿 New Zealand    | 🇺🇸 United States  |
-| 🇧🇪 Belgium         | 🇲🇾 Malaysia    | 🇫🇯 Fiji           | 🇨🇦 Canada         |
-| 🇱🇺 Luxembourg      | 🇯🇵 Japan       | 🇳🇨 New Caledonia  |                   |
-| 🇩🇪 Germany         | 🇰🇷 South Korea | 🇻🇺 Vanuatu        |                   |
-| 🇫🇷 France          | 🇹🇭 Thailand    |                   |                   |
-| 🇬🇧 United Kingdom  | 🇭🇰 Hong Kong   |                   |                   |
-| 🇳🇴 Norway          |                |                   |                   |
-| 🇮🇪 Ireland         |                |                   |                   |
-| 🇦🇹 Austria         |                |                   |                   |
-| 🇨🇭 Switzerland     |                |                   |                   |
-| 🇪🇸 Spain           |                |                   |                   |
-| 🇮🇹 Italy           |                |                   |                   |
-| 🇵🇹 Portugal        |                |                   |                   |
+I’ve explored **28 countries/regions so far**, including:
 
+| 🌍 Europe | 🌏 Asia | 🌊 Oceania | 🌎 Americas |
+|---|---|---|---|
+| 🇳🇱 The Netherlands | 🇹🇼 Taiwan | 🇦🇺 Australia | 🇺🇸 United States |
+| 🇧🇪 Belgium | 🇸🇬 Singapore | 🇳🇿 New Zealand | 🇨🇦 Canada |
+| 🇱🇺 Luxembourg | 🇲🇾 Malaysia | 🇫🇯 Fiji | |
+| 🇩🇪 Germany | 🇯🇵 Japan | 🇳🇨 New Caledonia | |
+| 🇫🇷 France | 🇰🇷 South Korea | 🇻🇺 Vanuatu | |
+| 🇬🇧 United Kingdom | 🇹🇭 Thailand | | |
+| 🇳🇴 Norway | 🇭🇰 Hong Kong | | |
+| 🇮🇪 Ireland | 🇺🇿 Uzbekistan | | |
+| 🇦🇹 Austria | | | |
+| 🇨🇭 Switzerland | | | |
+| 🇪🇸 Spain | | | |
+| 🇮🇹 Italy | | | |
+| 🇵🇹 Portugal | | | |
+
+- 📧 **Email**: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)  
 ---
 
 💫 Thanks for visiting! Happy reading and keep building amazing things in the cloud! ☁️
