@@ -45,33 +45,34 @@ I excel at aligning technical solutions with business goals, driving digital tra
 | 🟧 AWS                        | 🟦 Azure                              | 🟩 Infrastructure & DevOps      |
 |-------------------------------|---------------------------------------|---------------------------------|
 | Solutions Architect Professional | Solutions Architect Expert           | HashiCorp Terraform Associate   |
-| Security Specialty            | Administrator Associate               | GitHub Actions Certification    |
-| Solutions Architect Associate | Network Engineer Associate            |                                 |
+| Security Specialty            | Administrator Associate               | GitHub Certified: GitHub Actions    |
+| Solutions Architect Associate | Network Engineer Associate            | GitHub Certified: GitHub Agentic AI Developer                                 |
 | Developer Associate           | Security Engineer Associate           |                                 |
 | SysOps Administrator Associate| Azure Fundamentals                    |                                 |
 | Cloud Practitioner            |                                       |                                 |
-
+| AI Practitioner            |                                       |                                 |
 ---
 
 ## 🌍 Beyond Tech  
 
 Outside of work, I enjoy travelling ✈️. 
-I’ve explored **22 countries/regions so far**, including:  
-| 🌍 Europe           | 🌏 Asia         | 🌊 Oceania         | 🌎 Americas        |
-|---------------------|----------------|--------------------|-------------------|
-| 🇳🇱 The Netherlands | 🇸🇬 Singapore   | 🇳🇿 New Zealand    | 🇺🇸 United States  |
-| 🇧🇪 Belgium         | 🇲🇾 Malaysia    | 🇫🇯 Fiji           | 🇨🇦 Canada         |
-| 🇱🇺 Luxembourg      | 🇯🇵 Japan       | 🇳🇨 New Caledonia  |                   |
-| 🇩🇪 Germany         | 🇰🇷 South Korea | 🇻🇺 Vanuatu        |                   |
-| 🇫🇷 France          | 🇹🇭 Thailand    |                   |                   |
-| 🇬🇧 United Kingdom  | 🇭🇰 Hong Kong   |                   |                   |
-| 🇳🇴 Norway          |                |                   |                   |
-| 🇮🇪 Ireland         |                |                   |                   |
-| 🇦🇹 Austria         |                |                   |                   |
-| 🇨🇭 Switzerland     |                |                   |                   |
-| 🇪🇸 Spain           |                |                   |                   |
-| 🇮🇹 Italy           |                |                   |                   |
-| 🇵🇹 Portugal        |                |                   |                   |
+I’ve explored **28 countries/regions so far**, including:
+
+| 🌍 Europe | 🌏 Asia | 🌊 Oceania | 🌎 Americas |
+|---|---|---|---|
+| 🇳🇱 The Netherlands | 🇹🇼 Taiwan | 🇦🇺 Australia | 🇺🇸 United States |
+| 🇧🇪 Belgium | 🇸🇬 Singapore | 🇳🇿 New Zealand | 🇨🇦 Canada |
+| 🇱🇺 Luxembourg | 🇲🇾 Malaysia | 🇫🇯 Fiji | |
+| 🇩🇪 Germany | 🇯🇵 Japan | 🇳🇨 New Caledonia | |
+| 🇫🇷 France | 🇰🇷 South Korea | 🇻🇺 Vanuatu | |
+| 🇬🇧 United Kingdom | 🇹🇭 Thailand | | |
+| 🇳🇴 Norway | 🇭🇰 Hong Kong | | |
+| 🇮🇪 Ireland | 🇺🇿 Uzbekistan | | |
+| 🇦🇹 Austria | | | |
+| 🇨🇭 Switzerland | | | |
+| 🇪🇸 Spain | | | |
+| 🇮🇹 Italy | | | |
+| 🇵🇹 Portugal | | | |
 
 - 📧 **Email**: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)  
 ---
